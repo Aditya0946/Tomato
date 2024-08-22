@@ -43,6 +43,9 @@
 .footer-social-icons img:hover{
   transform: scale(1.05);
 }
+.footer-content-left .logo{
+  width: 40%;
+}
 @media (max-width:750px) {
   .footer-content{
     display: flex;
